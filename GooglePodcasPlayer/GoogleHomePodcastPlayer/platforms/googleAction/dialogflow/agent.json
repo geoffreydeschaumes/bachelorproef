@@ -1,0 +1,9 @@
+{
+	"defaultTimezone": "America/New_York",
+	"description": "",
+	"webhook": {
+		"url": "https://webhook.jovo.cloud/23ee3166-def0-4b56-bfaa-ced92aa55e9f",
+		"available": true
+	},
+	"language": "en"
+}
